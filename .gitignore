@@ -1,0 +1,4 @@
+.\\csvs data\\*
+csvs data
+.ipynb_checkpoints
+__pycache__
